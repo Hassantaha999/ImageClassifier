@@ -1,0 +1,10 @@
+0) Category: cape flower (idx: 37) has a probability of 27.648.
+1) Category: hibiscus (idx: 83) has a probability of 17.912.
+2) Category: blanket flower (idx: 100) has a probability of 8.475.
+3) Category: barbeton daisy (idx: 41) has a probability of 4.870.
+4) Category: canna lily (idx: 90) has a probability of 3.567.
+5) Category: oxeye daisy (idx: 49) has a probability of 3.544.
+6) Category: common dandelion (idx: 50) has a probability of 3.389.
+7) Category: mallow (idx: 97) has a probability of 2.644.
+8) Category: bolero deep blue (idx: 45) has a probability of 2.302.
+9) Category: garden phlox (idx: 32) has a probability of 2.086.
